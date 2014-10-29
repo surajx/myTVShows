@@ -1,0 +1,24 @@
+{
+  "name": "myTVShows",
+  "version": "0.0.1",
+  "description": "Web app to monitor latest tv show release that I watch",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt validate --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:surajx/myTVShows.git"
+  },
+  "keywords": [
+    "torrent",
+    "tv",
+    "sitcom"
+  ],
+  "author": "surajx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surajx/myTVShows/issues"
+  },
+  "homepage": "https://github.com/surajx/myTVShows"
+}
