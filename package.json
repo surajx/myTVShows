@@ -20,5 +20,19 @@
   "bugs": {
     "url": "https://github.com/surajx/myTVShows/issues"
   },
-  "homepage": "https://github.com/surajx/myTVShows"
+  "homepage": "https://github.com/surajx/myTVShows",
+  "dependencies": {
+    "express": "^4.10.1",
+    "thepiratebay": "^0.1.2"
+  },
+  "devDependencies": {
+    "colors": "^1.0.3",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-cli": "^1.10.0",
+    "matchdep": "^0.3.0",
+    "should": "^4.1.0"
+  }
 }
